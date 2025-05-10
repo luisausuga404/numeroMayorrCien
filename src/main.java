@@ -14,5 +14,6 @@ public class main {
             System.out.println("El número no es mayor a 100.");
         }
     }
+    
 }
 
